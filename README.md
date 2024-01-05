@@ -1,4 +1,6 @@
-# Skillsoft practice Lab
+![2fa3644183cca3ee528392eb34bb8267](https://github.com/rixiobarrios/skillsoft-practice-lab-full-stack-developer/assets/55994508/2f7fb2bf-6664-4088-b2b0-e95ceb8286a2)
+
+# Skillsoft Practice Lab
 
 ## Full Stack Developer
 
